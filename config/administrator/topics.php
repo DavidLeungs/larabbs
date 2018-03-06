@@ -28,6 +28,7 @@ return [
                 return model_link($value, $model);
             },
         ],
+
         'category' => [
             'title'    => '分类',
             'sortable' => false,
